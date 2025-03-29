@@ -5,6 +5,8 @@
 
 This project is not stable yet.
 
+An TUI spotify client written by Gleam-lang.
+
 ```sh
 gleam add spotilucy@1
 ```
