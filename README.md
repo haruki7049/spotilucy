@@ -1,7 +1,9 @@
-# spotilucy
+# WIP: spotilucy
 
 [![Package Version](https://img.shields.io/hexpm/v/spotilucy)](https://hex.pm/packages/spotilucy)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/spotilucy/)
+
+This project is not stable yet.
 
 ```sh
 gleam add spotilucy@1
