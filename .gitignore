@@ -5,3 +5,7 @@ erl_crash.dump
 
 # nix-direnv
 .direnv/
+
+# Nix's result
+result*
+result-*
