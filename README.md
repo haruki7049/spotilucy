@@ -10,6 +10,7 @@ A TUI spotify client written by Gleam-lang.
 ```sh
 gleam add spotilucy@1
 ```
+
 ```gleam
 import spotilucy
 
